@@ -9,7 +9,14 @@ This repository contains the code used in our data filtering and analysis.
 
 # Contributors
 
-List contributor names and github user names, or email addresses if desired
+Brad Fortunato (Data Curator)
+
+Marina Natividad (Programmer)
+
+Kyrah Kotary (Data Analyst)
+
+Vishwa Talati (Biologist)
+
 
 # Repository Contents
 
