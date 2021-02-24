@@ -1,6 +1,11 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+This is the repository for Project 1 in BF528, Applications in Translational Bioinformatics. The focus of this project was Microarray Based Tumor Classification, based on the results of the following paper: 
+
+Marisa et al. Gene Expression Classification of Colon Cancer into Molecular Subtypes: Characterization, Validation, and Prognostic Value. PLoS Medicine, May 2013. PMID: 23700391
+
+This repository contains the code used in our data filtering and analysis.
+
 
 # Contributors
 
